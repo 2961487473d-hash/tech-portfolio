@@ -1,0 +1,107 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e3]:
+    - link [ref=e4] [cursor=pointer]:
+      - /url: /
+      - img [ref=e5]:
+        - generic [ref=e15]:
+          - text: DJW.terminal
+          - generic [ref=e304]: _
+    - navigation [ref=e16]:
+      - link "首页" [ref=e17] [cursor=pointer]:
+        - /url: /
+        - generic [ref=e18]: 首页
+      - link "关于我" [ref=e19] [cursor=pointer]:
+        - /url: /#about
+        - generic [ref=e20]: 关于我
+      - link "项目成果" [ref=e21] [cursor=pointer]:
+        - /url: /#works
+        - generic [ref=e22]: 项目成果
+      - link "经历脉络" [ref=e23] [cursor=pointer]:
+        - /url: /#experience
+        - generic [ref=e24]: 经历脉络
+      - link "联系我" [ref=e25] [cursor=pointer]:
+        - /url: /#contact
+        - generic [ref=e26]: 联系我
+  - generic [ref=e27]:
+    - generic [ref=e30]:
+      - paragraph [ref=e31]: DJW / 戴江伟
+      - generic [ref=e32]: 千问大版本评测 × AI 工具赋能
+      - generic [ref=e38]:
+        - heading "把大模型评测做成 可复用的生产能力" [level=1] [ref=e39]:
+          - text: 把大模型评测做成
+          - text: 可复用的生产能力
+        - paragraph [ref=e40]: 我专注于千问大版本评测、评测标准体系搭建、Bad Case 闭环和 AI 工具提效，把复杂规则、数据流程与团队执行真正落到模型迭代里。
+      - generic [ref=e41]:
+        - generic [ref=e42]: 4.5w+ 数据闭环
+        - generic [ref=e43]: 27人协同评测
+        - generic [ref=e44]: 2000+ Bad Case
+        - generic [ref=e45]: 30% 工具提效
+      - generic [ref=e46]:
+        - link "[查看项目成果]" [ref=e47] [cursor=pointer]:
+          - /url: /#works
+          - button "[查看项目成果]" [ref=e48]: "[查看项目成果]"
+        - link "[联系我]" [ref=e51] [cursor=pointer]:
+          - /url: /#contact
+          - button "[联系我]" [ref=e52]: "[联系我]"
+      - generic [ref=e57]: 2年模型评测与内容质量经验
+    - generic [ref=e60]:
+      - generic [ref=e61]:
+        - paragraph [ref=e62]: // 关于我
+        - heading "我做的不只是评测， 而是把评测变成模型迭代的反馈系统" [level=2] [ref=e63]:
+          - text: 我做的不只是评测，
+          - text: 而是把评测变成模型迭代的反馈系统
+        - paragraph [ref=e64]: 我更擅长把抽象规则、复杂数据、团队执行和 AI 工具结合起来，做成真正可落地的流程能力。
+      - generic [ref=e65]:
+        - generic [ref=e66]:
+          - generic [ref=e67]
+          - generic [ref=e71]
+          - generic [ref=e75]
+        - generic [ref=e88]:
+          - heading "// 核心能力栈" [level=3] [ref=e89]
+          - generic [ref=e91]
+          - generic [ref=e96]
+          - generic [ref=e101]
+          - generic [ref=e106]
+          - generic [ref=e111]
+          - generic [ref=e115]
+    - generic [ref=e119]:
+      - generic [ref=e120]:
+        - paragraph [ref=e121]: // 代表项目
+        - heading "真正做过的 项目与能力" [level=2] [ref=e122]
+        - paragraph [ref=e123]: 这里不放虚构作品，只展示我实际参与并能说清楚问题、动作和结果的项目。点击卡片右上角，可以继续往下看更深一层的信息。
+      - generic [ref=e124]:
+        - generic [ref=e126]:
+          - generic [ref=e128]
+          - generic [ref=e139]
+          - generic [ref=e166]
+        - generic [ref=e170]:
+          - generic [ref=e172]
+          - generic [ref=e184]
+          - generic [ref=e203]
+        - generic [ref=e207]:
+          - generic [ref=e209]
+          - generic [ref=e221]
+          - generic [ref=e240]
+    - generic [ref=e244]:
+      - generic [ref=e245]:
+        - paragraph [ref=e246]: // 经历脉络
+        - heading "从一线执行，走向 体系与提效" [level=2] [ref=e247]
+        - paragraph [ref=e248]: 我的经历主线一直很清晰：先深入理解内容质量与标注现场，再把问题抽象成规则、流程和工具，最后形成能持续复用的能力。
+      - generic [ref=e249]:
+        - generic [ref=e250]:
+          - paragraph [ref=e253]: 2025.12 - 至今
+          - generic [ref=e257]
+        - generic [ref=e262]:
+          - paragraph [ref=e265]: 2025.02 - 2025.12
+          - generic [ref=e269]
+    - contentinfo [ref=e274]:
+      - generic [ref=e275]:
+        - generic [ref=e276]:
+          - generic [ref=e277]
+          - generic [ref=e281]
+        - generic [ref=e298]:
+          - generic [ref=e299]
+          - generic [ref=e303]: © 2026 戴江伟 — 聚焦千问大版本评测与 AI 工具赋能
+  - button "Open Next.js Dev Tools" [ref=e318] [cursor=pointer]:
+    - img [ref=e319]
+  - alert [ref=e322]
